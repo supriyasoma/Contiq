@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "email": "test@gmail.com",
+      "name": "Test",
+      "password": "test@12345",
+      "notificationCount": "0",
+      "id": 1
+    },
+    {
+      "email": "new@gmail.com",
+      "name": "new",
+      "password": "new@1234S",
+      "notificationCount": "0",
+      "id": 2
+    }
+  ],
+  "file": [],
+  "notification": []
+}

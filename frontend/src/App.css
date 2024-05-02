@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Manrope";
+  src: url(../public/assets/fonts/Manrope-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-y: hidden;
+}
